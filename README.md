@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**arnarg/arnarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <h1>Hi there 👋</h1>
+</div>
+<div id="badges" align="center">
+  <a href="https://fosstodon.org/@arnar" rel="me">
+    <img src="https://img.shields.io/badge/mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+  </a>
+  <a href="https://codedbearder.com">
+    <img src="https://img.shields.io/badge/blog-red?style=for-the-badge&logo=svelte&logoColor=white" alt="Blog Badge"/>
+  </a>
+  <a href="https://linked.com/arnari">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
