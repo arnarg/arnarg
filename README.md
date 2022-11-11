@@ -8,7 +8,7 @@
   <a href="https://codedbearder.com">
     <img src="https://img.shields.io/badge/blog-red?style=for-the-badge&logo=svelte&logoColor=white" alt="Blog Badge"/>
   </a>
-  <a href="https://linked.com/arnari">
+  <a href="https://linkedin.com/in/arnari">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
