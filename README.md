@@ -2,7 +2,7 @@
   <h1>Hi there 👋</h1>
 </div>
 <div id="badges" align="center">
-  <a href="https://fosstodon.org/@arnar" rel="me">
+  <a href="https://floss.social/@arnar" rel="me">
     <img src="https://img.shields.io/badge/mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
   <a href="https://codedbearder.com">
